@@ -2,7 +2,7 @@ const button = document.querySelector('.button-add-task')
 const input = document.querySelector('.input-task')
 const finalList = document.querySelector('.list-tasks')
 
-let minhaListaDeItens = []
+let myItemList = []
 
 function addNewTask() {
    myItemList.push({
@@ -17,8 +17,6 @@ function addNewTask() {
 
 function showTasks() {
    let newList = ''
-
-   // ['comprar café', 'estudar programação']
 
    myItemList.forEach((item, position) => {
       newList =
