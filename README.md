@@ -1,7 +1,7 @@
 # To-Do List em JavaScript
 
-![To-Do List Preview](![result](https://github.com/emilly-soares/Git-Github-Testes/assets/54116441/790a3871-30a5-4977-8e54-08e8c4496c73)
-)
+![result](https://github.com/emilly-soares/Git-Github-Testes/assets/54116441/b73aaf7c-ff27-40b3-a1b8-4aff00eef694)
+
 
 Uma aplicação de lista de afazeres (To-Do List) em JavaScript.
 
