@@ -1,6 +1,6 @@
 # To-Do List em JavaScript
 
-![To-Do List Preview]()
+![To-Do List Preview]("./img/result.png)
 
 Uma aplicação de lista de afazeres (To-Do List) em JavaScript.
 
